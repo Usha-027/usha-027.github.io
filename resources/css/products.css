@@ -1,0 +1,63 @@
+body{
+    background-image: url("./images/ambience/about\ background.jpg");
+}
+#op{
+    text-align:center;
+    color:white;
+    font-family:cursive;
+    background-color:black;
+    position:fixed-top;
+    padding:10px 10px;
+    margin-top:0px 10px;
+}
+#op:hover{
+    color:gray;
+    opacity:0.5;
+}
+h1{
+    text-align:center;
+    padding-top:40px;
+    margin-top:20px;
+    font-family:cursive;
+    font-size:50px;
+    font-weight:italic;
+
+}
+h1:hover{
+    color:gray;
+}
+.col-lg-3{
+    margin-top:30px;
+    text-align:center;
+padding-bottom:10px;
+font-weight:bold;
+}
+.col-lg-3:hover{
+    color:gray;
+}
+
+.c1{
+    height:250px;
+    width:300px;
+    padding-right:0px;
+    padding-top:10px;
+}
+.c1:hover{
+    color:gray;
+    opacity:0.5;
+}
+foot{
+    margin-left:800px;
+    margin-bottom:30px;
+    margin-right:30px;
+    padding-bottom:20px;
+
+}
+.u{
+    margin-left:100px;
+    padding-bottom:20px;
+}
+.v{
+    margin-left:500px;
+    padding-bottom:20px;
+}
